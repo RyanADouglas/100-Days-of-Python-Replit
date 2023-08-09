@@ -1,1 +1,13 @@
+userName = input("What is your name? ")
+favoriteFood = input("What is your favorite food? ")
+favoriteMusic = input("What is your favorite music? ")
+currentLocation = input("Where do you live? ")
 
+print("Your name is")
+print(userName)
+print("I bet you're hungry for")
+print(favoriteFood)
+print("while listening to")
+print(favoriteMusic)
+print("while enjoying")
+print(currentLocation)
